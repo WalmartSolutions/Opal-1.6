@@ -14,11 +14,11 @@ This Client Is A Clear Cash-Grab.
 
 **Make sure to use -noverify in your JVM Arguments (Client issue, not ours)**
 
-![image](https://media.discordapp.net/attachments/1139492863537860689/1145792961624416376/259542387-55db9418-0bd4-42bd-85be-dd77d5de4852.png?width=645&height=118)
+![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/!noverify.png?raw=true)
 
 # How To Use
 1. Download the Fabric installer from [here](https://fabricmc.net/use/installer/), open it and choose Minecraft 1.20.4 & Fabric Loader 0.15.X
-2. Download Opal.jar from this repository along with [Fabric API](https://modrinth.com/mod/fabric-api/version/0.97.0+1.20.4) page and put it into your .minecraft/mods folder
+2. Download OpalClient.jar from this repository along with [Fabric API](https://modrinth.com/mod/fabric-api/version/0.97.0+1.20.4) page and put it into your .minecraft/mods folder
 3. Start the game (with Fabric)
 
 # Credits
