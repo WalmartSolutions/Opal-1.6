@@ -16,6 +16,9 @@ This Client Is A Clear Cash-Grab.
 
 ![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/!noverify.png?raw=true)
 
+# Alt Manager
+Press " [ " On Your Keyboard
+
 # How To Use
 1. Download the Fabric installer from [here](https://fabricmc.net/use/installer/), open it and choose Minecraft 1.20.4 & Fabric Loader 0.15.X
 2. Download OpalClient.jar from this repository along with [Fabric API](https://modrinth.com/mod/fabric-api/version/0.97.0+1.20.4) page and put it into your .minecraft/mods folder
@@ -30,6 +33,7 @@ The Faceless Lord - Cracking
 Economics - Mirage Framework
 Ube / dataplugs - De-Obfusaction And Obtaining Jar And Trolling
 ~~~
+
 
 # GUI (Bind: RShift)
 ![image](https://github.com/WalmartSolutions/Opal/assets/166547117/eedf55c0-0e07-4288-a228-5373ed3f5013)
