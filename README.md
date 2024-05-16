@@ -29,7 +29,6 @@ Press " [ " On Your Keyboard
 ~~~
 Credits to:
 3000IQPlay - Cracking And Reversing
-The Faceless Lord - Cracking
 Economics - Mirage Framework
 Ube / dataplugs - De-Obfusaction And Obtaining Jar And Trolling
 ~~~
